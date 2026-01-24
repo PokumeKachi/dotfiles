@@ -1,6 +1,6 @@
 [submodule "nix"]
 	path = nix
-	url = ../nix.git
+	url = ../dotfiles-nix.git
 [submodule "stow"]
 	path = stow
-	url = ../stow.git
+	url = ../dotfiles-stow.git
